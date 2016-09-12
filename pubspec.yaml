@@ -1,0 +1,12 @@
+name: input_driver_test
+description: A new flutter project.
+dependencies:
+  flutter:
+    path: ../flutter/packages/flutter
+
+dev_dependencies:
+  test: any
+  flutter_test:
+      path: ../flutter/packages/flutter_test
+  flutter_driver:
+      path: ../flutter/packages/flutter_driver
